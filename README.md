@@ -34,5 +34,5 @@
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/1" alt="Recent Article 1">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/2" alt="Recent Article 2"> 
   
