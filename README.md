@@ -30,5 +30,4 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/0" alt="Recent Article 0"> 
