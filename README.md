@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shamimice03" target="blank"><img src="https://img.shields.io/twitter/follow/shamimice03?logo=twitter&style=for-the-badge" alt="shamimice03" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@shamimice03](https://medium.com/@shamimice03)
+- 📝 I regularly write articles on [https://medium.com/@shamimice03](medium.com/@shamimice03)
 
 - 💬 Ask me about **AWS, Kubernetes, Python, Terraform**
 
