@@ -9,6 +9,7 @@
 
 - 💬 Ask me about **AWS, Kubernetes, Ansible, Terraform, Helm**
 
+![](https://github.com/shamimice03/shamimice03/blob/main/Untitled%20design.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
