@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h3 align="center">Cloud Platform Engineer</h3>
+<h2 align="center">Cloud Platform Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimice03&label=Profile%20views&color=0e75b6&style=flat" alt="shamimice03" /> </p>
 <!-- 
@@ -34,6 +34,5 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/2" alt="Recent Article 2"> 
  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
   
