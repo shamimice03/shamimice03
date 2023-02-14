@@ -7,11 +7,8 @@
  -->
 - 📝 I regularly write articles on [medium.com/@shamimice03](https://medium.com/@shamimice03)
 
-- 💬 Ask me about **AWS, Kubernetes, Python, Terraform**
+- 💬 Ask me about **AWS, Kubernetes, Ansible, Terraform, Helm**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
