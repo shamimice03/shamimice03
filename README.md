@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS, Kubernetes, Ansible, Terraform, Helm**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 
 
@@ -21,8 +21,8 @@
 
 </p>
 
-
-## Latest Medium Posts
+***
+### Latest Medium Articles : 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shamimice03/0" alt="Recent Article 0"> 
   
