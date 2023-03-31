@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h2 align="center">☁️ Cloud Platform Engineer</h2>
+<h2 align="center">☁️ Cloud Infrastructure Engineer </h2>
 
 <!-- ![](https://github.com/shamimice03/shamimice03/blob/main/Linked%20In%20cover%201.gif) -->
 
