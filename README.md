@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Shamim</h1>
+<h3 align="center"> Cloud Infrastructure Engineer </h3>
 <p align="center">
   <img src="https://media.giphy.com/media/NeQoAaKp2hhLt6Ayq1/giphy.gif" alt="Sublime's custom image"/>
 </p>
-<h1 align="center">Hi 👋, I'm Shamim</h1>
-<h3 align="center">Cloud Infrastructure Engineer at Asahi-Kasei in Japan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimice03&label=Profile%20views&color=0e75b6&style=flat" alt="shamimice03" /> </p>
 
@@ -10,7 +11,7 @@
 
 - 💬 Ask me about **AWS, Kubernetes, Terraform, Jenkins, Python**
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
