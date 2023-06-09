@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h3 align="center"> Cloud Infrastructure Engineer </h3>
+<h3 align="center"> Cloud Infrastructure Engineer | AWS Community Builder | Technical Blogger </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimice03&label=Profile%20views&color=0e75b6&style=flat" alt="shamimice03" /> </p>
 
-- 📝 I regularly write articles on ⏩ [Medium](https://medium.com/@shamimice03)
+-  ✍️ Technical Blogger at [Medium](https://medium.com/@shamimice03) and [Dev.to](https://dev.to/shamimice03)
 
 - 💬 Ask me about **AWS, Kubernetes, Terraform, Jenkins, Python**
 
