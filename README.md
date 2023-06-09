@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/NeQoAaKp2hhLt6Ayq1/giphy.gif" alt="Sublime's custom image"/>
+</p>
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h3 align="center">Cloud Infrastructure Engineer at Asahi-Kasei in Japan</h3>
 
