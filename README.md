@@ -9,10 +9,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitor Disk and Memory Usage using CloudWatch Agent](https://towardsaws.com/monitor-disk-and-memory-usage-using-cloudwatch-agent-56a1345a78d4?source=rss-a96bc5a23088------2)
 - [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
 - [Building an Event-Driven Image Resizer Using AWS S3, SQS and Lambda](https://towardsaws.com/building-an-event-driven-image-resizer-using-aws-s3-sqs-and-lambda-894ff455e12?source=rss-a96bc5a23088------2)
 - [Automate EC2 Start and Stop with Amazon EventBridge and Lambda](https://towardsaws.com/automate-ec2-start-and-stop-with-amazon-eventbridge-and-lambda-ac85296e33f1?source=rss-a96bc5a23088------2)
-- [JSON Data Handling in Python Made Easy](https://levelup.gitconnected.com/json-data-handling-in-python-made-easy-6876d17a79f?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
