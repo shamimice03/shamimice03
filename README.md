@@ -9,10 +9,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitor Disk and Memory Usage using CloudWatch Agent](https://towardsaws.com/monitor-disk-and-memory-usage-using-cloudwatch-agent-56a1345a78d4?source=rss-a96bc5a23088------2)
 - [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
-- [A Guide to Docker Multi-Stage Builds](https://dev.to/shamimice03/a-guide-to-docker-multi-stage-builds-2mcn)
-- [Helm — Create a Private Repository Using Apache Webserver](https://dev.to/shamimice03/helm-create-a-private-repository-using-apache-webserver-4ofc)
-- [Git Clone using Init-container | Kubernetes](https://dev.to/shamimice03/git-clone-using-init-container-kubernetes-3id4)
+- [Building an Event-Driven Image Resizer Using AWS S3, SQS and Lambda](https://towardsaws.com/building-an-event-driven-image-resizer-using-aws-s3-sqs-and-lambda-894ff455e12?source=rss-a96bc5a23088------2)
+- [Automate EC2 Start and Stop with Amazon EventBridge and Lambda](https://towardsaws.com/automate-ec2-start-and-stop-with-amazon-eventbridge-and-lambda-ac85296e33f1?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
