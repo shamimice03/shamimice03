@@ -9,10 +9,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Group AWS Resources Based on Tags?](https://towardsaws.com/how-to-group-aws-resources-based-on-tags-dba89cb94597?source=rss-a96bc5a23088------2)
-- [Monitor Disk and Memory Usage using CloudWatch Agent](https://towardsaws.com/monitor-disk-and-memory-usage-using-cloudwatch-agent-56a1345a78d4?source=rss-a96bc5a23088------2)
 - [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
-- [Building an Event-Driven Image Resizer Using AWS S3, SQS and Lambda](https://towardsaws.com/building-an-event-driven-image-resizer-using-aws-s3-sqs-and-lambda-894ff455e12?source=rss-a96bc5a23088------2)
+- [A Guide to Docker Multi-Stage Builds](https://dev.to/shamimice03/a-guide-to-docker-multi-stage-builds-2mcn)
+- [Helm — Create a Private Repository Using Apache Webserver](https://dev.to/shamimice03/helm-create-a-private-repository-using-apache-webserver-4ofc)
+- [Git Clone using Init-container | Kubernetes](https://dev.to/shamimice03/git-clone-using-init-container-kubernetes-3id4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
