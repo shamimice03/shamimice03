@@ -15,6 +15,18 @@
 - [Git Clone using Init-container | Kubernetes](https://dev.to/shamimice03/git-clone-using-init-container-kubernetes-3id4)
 <!-- BLOG-POST-LIST:END -->
 
+### Noticeable Repositories:
+|  Repository name  | Description|  Tools used |
+|-------------------------------|-------------------------------|-----------------------------|
+| [terraform-aws-vpc](https://github.com/shamimice03/terraform-aws-vpc)   |Terraform Module for AWS-VPC |  `terraform` `aws-vpc` | 
+| [terraform-aws-rds-blueprint](https://github.com/shamimice03/terraform-aws-rds-blueprint) | Terraform Module to Provision AWS RDS |  `terraform` `aws-vpc` `aws-rds` |
+| [terraform-aws-acm-route53](https://github.com/shamimice03/terraform-aws-acm-route53)|Request a public SSL/TLS certificate from AWS Certificate Manager and add record to AWS Route53| `terraform` `route53` `aws-acm` |
+| [terraform-attach-EFS-on-multiple-EC2-instances](https://github.com/shamimice03/terraform-attach-EFS-on-multiple-EC2-instances) | Attach EFS filesystem to multiple EC2 instances running on different AZs | `terraform` `aws-vpc` `aws-ec2` `aws-efs` `bash` |
+| [terraform-provision-multiple-ec2-instances](https://github.com/shamimice03/terraform-provision-multiple-ec2-instances) | Provision multiple instances on multiple subnets using terraform | `terraform` `aws-vpc` `aws-ec2` |
+| [jenkins-server-on-aws-using-terraform-ansible](https://github.com/shamimice03/jenkins-server-on-aws-using-terraform-ansible)| Provision Jenkins server on AWS using terraform and ansible playbook | `terraform` `jenkins` `aws-ec2` `ansible` `ansible-playbook` |
+
+****
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shamimice03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shamimice03" height="30" width="40" /></a>
@@ -28,14 +40,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-### Noticeable Repositories:
-|  Repository name  | Description|  Tools used |
-|-------------------------------|-------------------------------|-----------------------------|
-| [terraform-aws-vpc](https://github.com/shamimice03/terraform-aws-vpc)   |Terraform Module for AWS-VPC |  `terraform` `aws-vpc` | 
-| [terraform-aws-rds-blueprint](https://github.com/shamimice03/terraform-aws-rds-blueprint) | Terraform Module to Provision AWS RDS |  `terraform` `aws-vpc` `aws-rds` |
-| [terraform-aws-acm-route53](https://github.com/shamimice03/terraform-aws-acm-route53)|Request a public SSL/TLS certificate from AWS Certificate Manager and add record to AWS Route53| `terraform` `route53` `aws-acm` |
-| [terraform-attach-EFS-on-multiple-EC2-instances](https://github.com/shamimice03/terraform-attach-EFS-on-multiple-EC2-instances) | Attach EFS filesystem to multiple EC2 instances running on different AZs | `terraform` `aws-vpc` `aws-ec2` `aws-efs` `bash` |
-| [terraform-provision-multiple-ec2-instances](https://github.com/shamimice03/terraform-provision-multiple-ec2-instances) | Provision multiple instances on multiple subnets using terraform | `terraform` `aws-vpc` `aws-ec2` |
-| [jenkins-server-on-aws-using-terraform-ansible](https://github.com/shamimice03/jenkins-server-on-aws-using-terraform-ansible)| Provision Jenkins server on AWS using terraform and ansible playbook | `terraform` `jenkins` `aws-ec2` `ansible` `ansible-playbook` |
-
