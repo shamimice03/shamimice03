@@ -38,5 +38,4 @@
 | [terraform-attach-EFS-on-multiple-EC2-instances](https://github.com/shamimice03/terraform-attach-EFS-on-multiple-EC2-instances) | Attach EFS filesystem to multiple EC2 instances running on different AZs | `terraform` `aws-vpc` `aws-ec2` `aws-efs` `bash` |
 | [terraform-provision-multiple-ec2-instances](https://github.com/shamimice03/terraform-provision-multiple-ec2-instances) | Provision multiple instances on multiple subnets using terraform | `terraform` `aws-vpc` `aws-ec2` |
 | [jenkins-server-on-aws-using-terraform-ansible](https://github.com/shamimice03/jenkins-server-on-aws-using-terraform-ansible)| Provision Jenkins server on AWS using terraform and ansible playbook | `terraform` `jenkins` `aws-ec2` `ansible` `ansible-playbook` |
-| [terraform-attach-EFS-on-multiple-EC2-instances](https://github.com/shamimice03/terraform-attach-EFS-on-multiple-EC2-instances) | Attach EFS filesystem to multiple EC2 instances running on different AZs | `Terraform` `AWS-VPC` `AWS-EC2` `EFS` `Bash` |
 
