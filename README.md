@@ -9,10 +9,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS EKS-Monitoring and Logging Using Container Insights](https://levelup.gitconnected.com/aws-eks-monitoring-and-logging-using-container-insights-f81a580347b5?source=rss-a96bc5a23088------2)
 - [Install CloudWatch Agent Using AWS Systems Manager](https://towardsaws.com/install-cloudwatch-agent-using-aws-systems-manager-cf460db8ef78?source=rss-a96bc5a23088------2)
 - [Automation Using AWS Systems Manager](https://towardsaws.com/automation-using-aws-systems-manager-510b83eef327?source=rss-a96bc5a23088------2)
 - [How to Group AWS Resources Based on Tags?](https://towardsaws.com/how-to-group-aws-resources-based-on-tags-dba89cb94597?source=rss-a96bc5a23088------2)
-- [Monitor Disk and Memory Usage using CloudWatch Agent](https://towardsaws.com/monitor-disk-and-memory-usage-using-cloudwatch-agent-56a1345a78d4?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Noticeable Repositories:
