@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AWS, Kubernetes, Terraform, Jenkins, Python**
 
-### Latest Blogs posts
+### Latest blogs
 <!-- BLOG-POST-LIST:START -->
 - [AWS EKS-Monitoring and Logging Using Container Insights](https://levelup.gitconnected.com/aws-eks-monitoring-and-logging-using-container-insights-f81a580347b5?source=rss-a96bc5a23088------2)
 - [Install CloudWatch Agent Using AWS Systems Manager](https://towardsaws.com/install-cloudwatch-agent-using-aws-systems-manager-cf460db8ef78?source=rss-a96bc5a23088------2)
