@@ -7,11 +7,11 @@
 
 ### Latest blogs
 <!-- BLOG-POST-LIST:START -->
-- [Install AWS CodeDeploy Agent using AWS Systems Manager](https://medium.com/towards-aws/install-aws-codedeploy-agent-using-aws-systems-manager-b2fafe4085?source=rss-a96bc5a23088------2)
-- [Enable HTTPS on EC2 instance Without Elastic Load Balancer](https://faun.pub/enable-https-on-ec2-instance-without-elastic-load-balancer-f69cd57a8f3a?source=rss-a96bc5a23088------2)
-- [AWS EKS-Monitoring and Logging Using Container Insights](https://levelup.gitconnected.com/aws-eks-monitoring-and-logging-using-container-insights-f81a580347b5?source=rss-a96bc5a23088------2)
-- [Install CloudWatch Agent Using AWS Systems Manager](https://medium.com/towards-aws/install-cloudwatch-agent-using-aws-systems-manager-cf460db8ef78?source=rss-a96bc5a23088------2)
-- [Automation Using AWS Systems Manager](https://medium.com/towards-aws/automation-using-aws-systems-manager-510b83eef327?source=rss-a96bc5a23088------2)
+- [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
+- [A Guide to Docker Multi-Stage Builds](https://dev.to/shamimice03/a-guide-to-docker-multi-stage-builds-2mcn)
+- [Helm — Create a Private Repository Using Apache Webserver](https://dev.to/shamimice03/helm-create-a-private-repository-using-apache-webserver-4ofc)
+- [Git Clone using Init-container | Kubernetes](https://dev.to/shamimice03/git-clone-using-init-container-kubernetes-3id4)
+- [Helm — Dependencies](https://dev.to/shamimice03/helm-dependencies-29jm)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some Personal Projects
