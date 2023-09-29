@@ -8,10 +8,10 @@
 ### Latest blogs
 <!-- BLOG-POST-LIST:START -->
 - [Restrict SSH within EC2 Instance Connect and Your Region](https://medium.com/kubehub/restrict-ssh-within-ec2-instance-connect-and-your-region-ccd5d241c4e3?source=rss-a96bc5a23088------2)
-- [Install AWS CodeDeploy Agent using AWS Systems Manager](https://medium.com/towards-aws/install-aws-codedeploy-agent-using-aws-systems-manager-b2fafe4085?source=rss-a96bc5a23088------2)
+- [Install AWS CodeDeploy Agent using AWS Systems Manager](https://towardsaws.com/install-aws-codedeploy-agent-using-aws-systems-manager-b2fafe4085?source=rss-a96bc5a23088------2)
 - [Enable HTTPS on EC2 instance Without Elastic Load Balancer](https://faun.pub/enable-https-on-ec2-instance-without-elastic-load-balancer-f69cd57a8f3a?source=rss-a96bc5a23088------2)
 - [AWS EKS-Monitoring and Logging Using Container Insights](https://levelup.gitconnected.com/aws-eks-monitoring-and-logging-using-container-insights-f81a580347b5?source=rss-a96bc5a23088------2)
-- [Install CloudWatch Agent Using AWS Systems Manager](https://medium.com/towards-aws/install-cloudwatch-agent-using-aws-systems-manager-cf460db8ef78?source=rss-a96bc5a23088------2)
+- [Install CloudWatch Agent Using AWS Systems Manager](https://towardsaws.com/install-cloudwatch-agent-using-aws-systems-manager-cf460db8ef78?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some Personal Projects
