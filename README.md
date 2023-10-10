@@ -8,11 +8,11 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 
 ## Latest blogs:
 <!-- BLOG-POST-LIST:START -->
+- [AWS IAM Policy — ResourceTag VS RequestTag](https://towardsaws.com/aws-iam-policy-resourcetag-vs-requesttag-16f19e4b83a3?source=rss-a96bc5a23088------2)
 - [Monitoring Using Prometheus and Grafana](https://levelup.gitconnected.com/monitoring-using-prometheus-and-grafana-f2bc85810ebb?source=rss-a96bc5a23088------2)
 - [AWS Burstable EC2 Instances | CPU Credit Concepts](https://towardsaws.com/aws-burstable-ec2-instances-cpu-credit-concepts-f48086a6867a?source=rss-a96bc5a23088------2)
 - [Restrict SSH within EC2 Instance Connect and Your Region](https://medium.com/kubehub/restrict-ssh-within-ec2-instance-connect-and-your-region-ccd5d241c4e3?source=rss-a96bc5a23088------2)
 - [Install AWS CodeDeploy Agent using AWS Systems Manager](https://towardsaws.com/install-aws-codedeploy-agent-using-aws-systems-manager-b2fafe4085?source=rss-a96bc5a23088------2)
-- [Enable HTTPS on EC2 instance Without Elastic Load Balancer](https://faun.pub/enable-https-on-ec2-instance-without-elastic-load-balancer-f69cd57a8f3a?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Familiarity with technologies
