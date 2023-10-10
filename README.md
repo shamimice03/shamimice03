@@ -15,7 +15,7 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 - [Enable HTTPS on EC2 instance Without Elastic Load Balancer](https://faun.pub/enable-https-on-ec2-instance-without-elastic-load-balancer-f69cd57a8f3a?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
-## My Familiarity with technologies
+## Familiarity with technologies
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
