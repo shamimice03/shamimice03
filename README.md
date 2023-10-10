@@ -1,6 +1,6 @@
 ![Yellow Corporate LinkedIn Banner](https://github.com/shamimice03/shamimice03/assets/19708705/30b2d2aa-2193-495b-a0da-c87c506a5526)
-## Hello and welcome!
-I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I Spend most of time by desiging, automating and infrastructure on AWS or writing tech blogs on medium.
+## Hello and Welcome !
+I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend most of my time by designing, automating, and provisioning infrastructure on AWS or writing tech blogs on Medium.
 
 :writing_hand: &emsp; Latest blogs:
 <!-- BLOG-POST-LIST:START -->
