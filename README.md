@@ -2,10 +2,7 @@
 <h3 align="center"> Cloud Infrastructure Engineer | AWS Community Builder | Technical Writer </h3>
 
 
--  ✍️ Technical Writer at [Medium](https://medium.com/@shamimice03) and [Dev.to](https://dev.to/shamimice03)
-
-
-### Latest blogs
+### Latest Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Monitoring Using Prometheus and Grafana](https://levelup.gitconnected.com/monitoring-using-prometheus-and-grafana-f2bc85810ebb?source=rss-a96bc5a23088------2)
 - [AWS Burstable EC2 Instances | CPU Credit Concepts](https://towardsaws.com/aws-burstable-ec2-instances-cpu-credit-concepts-f48086a6867a?source=rss-a96bc5a23088------2)
