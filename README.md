@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shamim </h1>
-<h3 align="center"> Cloud Infrastructure Engineer | AWS Community Builder | Technical Writer </h3>
-
+![Yellow Corporate LinkedIn Banner](https://github.com/shamimice03/shamimice03/assets/19708705/30b2d2aa-2193-495b-a0da-c87c506a5526)
+## Hello and welcome!
+I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I Spend most of time by desiging, automating and infrastructure on AWS or writing tech blogs on medium.
 
 :writing_hand: &emsp; Latest blogs:
 <!-- BLOG-POST-LIST:START -->
@@ -14,7 +14,7 @@
 :coffee: &emsp;Connect with me!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamimice03/)[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shamimice03)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cloudterms.io@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamimice03/)[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shamimice03)[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamimice03)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloudterms.io@gmail.com)
 
 
 
