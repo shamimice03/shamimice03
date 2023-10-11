@@ -15,7 +15,7 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 - [Install AWS CodeDeploy Agent using AWS Systems Manager](https://towardsaws.com/install-aws-codedeploy-agent-using-aws-systems-manager-b2fafe4085?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Familiarity with technologies
+## Familiarity with technologies:
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
