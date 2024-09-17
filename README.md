@@ -9,10 +9,10 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 ## Latest blogs:
 <!-- BLOG-POST-LIST:START -->
 - [Cross-Account VPC Associations with Route53 Private Hosted Zone and Addressing Terraform State Update Issue](https://dev.to/aws-builders/cross-account-vpc-associations-with-route53-private-hosted-zone-and-addressing-terraform-state-update-issue-3eip)
-- [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
-- [A Guide to Docker Multi-Stage Builds](https://dev.to/shamimice03/a-guide-to-docker-multi-stage-builds-2mcn)
-- [Helm — Create a Private Repository Using Apache Webserver](https://dev.to/shamimice03/helm-create-a-private-repository-using-apache-webserver-4ofc)
-- [Git Clone using Init-container | Kubernetes](https://dev.to/shamimice03/git-clone-using-init-container-kubernetes-3id4)
+- [AWS IAM Policy — ResourceTag VS RequestTag](https://towardsaws.com/aws-iam-policy-resourcetag-vs-requesttag-16f19e4b83a3?source=rss-a96bc5a23088------2)
+- [Monitoring Using Prometheus and Grafana](https://levelup.gitconnected.com/monitoring-using-prometheus-and-grafana-f2bc85810ebb?source=rss-a96bc5a23088------2)
+- [AWS Burstable EC2 Instances | CPU Credit Concepts](https://towardsaws.com/aws-burstable-ec2-instances-cpu-credit-concepts-f48086a6867a?source=rss-a96bc5a23088------2)
+- [Restrict SSH within EC2 Instance Connect and Your Region](https://medium.com/kubehub/restrict-ssh-within-ec2-instance-connect-and-your-region-ccd5d241c4e3?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Familiarity with technologies:
