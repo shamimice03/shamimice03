@@ -8,11 +8,11 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 
 ## Latest blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Kubernetes Client-Go](https://levelup.gitconnected.com/getting-started-with-kubernetes-client-go-9dacda6fffef?source=rss-a96bc5a23088------2)
+- [AWS IPAM: A Complete Guide to IP Address Management with AWS Organizations and RAM](https://aws.plainenglish.io/aws-ipam-a-complete-guide-to-ip-address-management-with-aws-organizations-and-ram-7fc82d460b38?source=rss-a96bc5a23088------2)
+- [Analyzing AWS Logs using AWS Athena &lpar;SQL&rpar;](https://towardsaws.com/analyzing-aws-logs-using-aws-athena-sql-4188861cb774?source=rss-a96bc5a23088------2)
 - [Cross-Account VPC Associations with Route53 Private Hosted Zone and Addressing Terraform State Update Issue](https://dev.to/aws-builders/cross-account-vpc-associations-with-route53-private-hosted-zone-and-addressing-terraform-state-update-issue-3eip)
-- [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
-- [A Guide to Docker Multi-Stage Builds](https://dev.to/shamimice03/a-guide-to-docker-multi-stage-builds-2mcn)
-- [Helm — Create a Private Repository Using Apache Webserver](https://dev.to/shamimice03/helm-create-a-private-repository-using-apache-webserver-4ofc)
-- [Git Clone using Init-container | Kubernetes](https://dev.to/shamimice03/git-clone-using-init-container-kubernetes-3id4)
+- [AWS IAM Policy — ResourceTag VS RequestTag](https://towardsaws.com/aws-iam-policy-resourcetag-vs-requesttag-16f19e4b83a3?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Familiarity with technologies:
