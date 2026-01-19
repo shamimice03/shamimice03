@@ -8,11 +8,11 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 
 ## Latest blogs:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Security Series: AWS Access Key is Compromised. Now What? An Incident Response Playbook.](https://medium.com/kubehub/aws-security-series-aws-access-key-is-compromised-now-what-an-incident-response-playbook-c568327fc7f6?source=rss-a96bc5a23088------2)
 - [AWS Security Series: AWS Access Key is Compromised. Now What? An Incident Response Playbook.](https://dev.to/shamimice03/aws-security-series-aws-access-key-is-compromised-now-what-an-incident-response-playbook-448b)
 - [A Complete Guide for Kubernetes Client-Go SharedInformerFactory](https://levelup.gitconnected.com/a-complete-guide-for-kubernetes-client-go-sharedinformerfactory-db1e935ae745?source=rss-a96bc5a23088------2)
 - [A Deep Dive Into Kubernetes Client-Go Informers](https://levelup.gitconnected.com/a-deep-dive-into-kubernetes-client-go-informers-012bb5362a38?source=rss-a96bc5a23088------2)
 - [Getting Started With Kubernetes Client-Go](https://levelup.gitconnected.com/getting-started-with-kubernetes-client-go-9dacda6fffef?source=rss-a96bc5a23088------2)
-- [AWS IPAM: A Complete Guide to IP Address Management with AWS Organizations and RAM](https://aws.plainenglish.io/aws-ipam-a-complete-guide-to-ip-address-management-with-aws-organizations-and-ram-7fc82d460b38?source=rss-a96bc5a23088------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Familiarity with technologies:
