@@ -8,11 +8,11 @@ I'm Shamim, a Cloud Infrastructure Engineer and AWS Community Builder. I spend m
 
 ## Latest blogs:
 <!-- BLOG-POST-LIST:START -->
-- [Building An Automated Data Pipeline Using AWS Glue: A Complete Guide](https://aws.plainenglish.io/building-an-automated-data-pipeline-using-aws-glue-a-complete-guide-08d8a8b3dc00?source=rss-a96bc5a23088------2)
-- [AWS Security Series: AWS Access Key is Compromised. Now What? An Incident Response Playbook.](https://medium.com/kubehub/aws-security-series-aws-access-key-is-compromised-now-what-an-incident-response-playbook-c568327fc7f6?source=rss-a96bc5a23088------2)
 - [AWS Security Series: AWS Access Key is Compromised. Now What? An Incident Response Playbook.](https://dev.to/shamimice03/aws-security-series-aws-access-key-is-compromised-now-what-an-incident-response-playbook-448b)
-- [A Complete Guide for Kubernetes Client-Go SharedInformerFactory](https://levelup.gitconnected.com/a-complete-guide-for-kubernetes-client-go-sharedinformerfactory-db1e935ae745?source=rss-a96bc5a23088------2)
-- [A Deep Dive Into Kubernetes Client-Go Informers](https://levelup.gitconnected.com/a-deep-dive-into-kubernetes-client-go-informers-012bb5362a38?source=rss-a96bc5a23088------2)
+- [Cross-Account VPC Associations with Route53 Private Hosted Zone and Addressing Terraform State Update Issue](https://dev.to/aws-builders/cross-account-vpc-associations-with-route53-private-hosted-zone-and-addressing-terraform-state-update-issue-3eip)
+- [Kubeconfig for EKS Cluster](https://dev.to/aws-builders/kubeconfig-for-eks-cluster-4aga)
+- [A Guide to Docker Multi-Stage Builds](https://dev.to/shamimice03/a-guide-to-docker-multi-stage-builds-2mcn)
+- [Helm — Create a Private Repository Using Apache Webserver](https://dev.to/shamimice03/helm-create-a-private-repository-using-apache-webserver-4ofc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Familiarity with technologies:
